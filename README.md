@@ -31,7 +31,7 @@
     * ex06 = ft_strlen.c 
     * ex07 = ft_rev_int_tab.c 
     * ex08 = ft_sort_int_tab.c 
-- Day 05-07: Rush00 - Написать программу отображения индивидуальных сеток с различными размерами.
+- Day 05-07: Rush00 - Write a program to display individual grids with different dimensions.
 
 - Day 08: C02:
     * ex00 = ft_strcpy.c 
@@ -75,7 +75,7 @@
     * ex07 = ft_find_next_prime.c 
     * ex08 = ft_ten_queens_puzzle.c 
 
-- Day 12-14: Rush01 - Написать программу решающую логическую головоломку `Небоскребы`(`skyscapers`).
+- Day 12-14: Rush01 - Write a program that solves the logic puzzle `Skyscapers`.
 - Day 15: C06: 
     * ex00 = ft_print_program_name.c 
     * ex01 = ft_print_params.c 
